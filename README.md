@@ -4,7 +4,7 @@
   
   //since it was made using alot of recourses online, i thought it was the best to share to everyone :)
   
-  //keep in mind i'm a designer not a coder xd
+  //keep in mind i'm a designer not a dev xd
 
 
 -->important
